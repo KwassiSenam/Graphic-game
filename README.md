@@ -1,6 +1,6 @@
 # TerraGenesis Game
 
-This repository contains an implementation of the <strong>TerraGenesis<strong> game developed for a school project.
+This repository contains an implementation of the <strong>TerraGenesis</strong> game developed for a school project.
 
 Tools
 * Python: NumPy, Pandas, Seaborn, Matplotlib
